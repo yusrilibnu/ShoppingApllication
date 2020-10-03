@@ -1,1 +1,1 @@
-# ShoppingApllication
+# ShoppingApp
